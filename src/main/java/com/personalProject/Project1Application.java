@@ -11,7 +11,7 @@ public class Project1Application {
 	}
 	
 /*
- * Just changing this to accoutn for some difference between the first 2 branches
+ * Just changing this to account for some difference between the first 2 branches
  * 
  */
 
